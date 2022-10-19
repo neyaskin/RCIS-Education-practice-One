@@ -2,7 +2,6 @@ import 'dart:math';
 import 'dart:io';
 
 void main(List<String> arguments) {
-
 // Задание 1. Создайте коллекцию(массив) с 10 случайными числами.
 // Выведите в консоль номер минимального элемента;
 //     List<int> nums = List.generate(10, (_) => Random().nextInt(10));
